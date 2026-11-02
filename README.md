@@ -40,7 +40,7 @@
    code buka-samples
    ```
 
-4. VS Code가 열리면 터미널을 엽니다(`Ctrl + @` / Mac: `` Ctrl + ` ``).
+4. VS Code가 열리면 터미널을 엽니다(`` Ctrl + ` `` / Mac: `` Ctrl + ` ``).
 
 > 💡 `git` 명령을 찾을 수 없다면 먼저 [Git](https://git-scm.com/)을 설치하세요.
 > `code` 명령을 찾을 수 없다면 VS Code를 실행한 뒤 `Ctrl+Shift+P`(Mac: `Cmd+Shift+P`) → 'Shell Command: Install 'code' command in PATH'를 실행하세요.
@@ -71,7 +71,7 @@ Copilot 채팅을 가장 잘 활용하려면 **Claude Opus 4.6 이상** 모델�
 `/setup`이 해 주는 일:
 
 1. **AI 모델과 설정 확인** — Claude Opus 4.6이 선택되어 있는지 확인하고, 작업 자동 승인(Auto-Approve)을 설정합니다.
-2. **언어 확인** — 일본어로 진행해도 되는지 확인합니다.
+2. **언어 확인** — 한국어로 진행해도 되는지 확인합니다.
 3. **도구 점검** — 컴퓨터에 필요한 소프트웨어가 설치되어 있는지 확인하고, 부족하면 설치를 제안합니다.
 4. **Google API 설정** — Gmail과 Google Calendar를 사용하기 위한 설정을 대화형으로 한 단계씩 안내합니다.
 5. **프로젝트 초기화** — TypeScript 등 개발에 필요한 패키지를 설치합니다.
